@@ -1,5 +1,7 @@
+<?php
+
 function say_hello() {
-  return "Hello!";
+  return "achraf's Änderung";
 }
 
 echo say_hello();
