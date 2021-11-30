@@ -9,6 +9,8 @@ function say_hello() {
   return "hello";
 }
 
+// New feature a
+
 echo say_hello:
 
 // Simple Function + Parameter + Call
