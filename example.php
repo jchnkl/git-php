@@ -1,18 +1,28 @@
 <?php
 
-function say_hello() {
+/**
+  * Says hello
+  *
+  * @since 2021-11-30
+*/
+function say_achrafs_change() {
   return "Hello";
 }
 
-echo say_hello();
+echo say_achrafs_change();
 
 // Simple Function + Parameter + Call
 
+/**
+  * Says hello
+  *
+  * @since 2021-11-30
+*/
 function say_hello($friend) {
   return "Hello " . $friend . "!";
 }
 
-echo say_hello('Tommy');
+echo say_hello('Maxi');
 
 // strtoupper - Makes all Chars BIGGER AND BIGGER!
 
