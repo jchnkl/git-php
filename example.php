@@ -24,6 +24,8 @@ function say_hello($friend) {
   return "Hello " . $friend . "!";
 }
 
+// Hier grüßen wir Maxi
+
 echo say_hello('Maxi');
 
 // strtoupper - Makes all Chars BIGGER AND BIGGER!
