@@ -11,7 +11,7 @@ function say_hello() {
 
 // New feature a
 
-echo say_hello:
+echo say_hello();
 
 // Simple Function + Parameter + Call
 
