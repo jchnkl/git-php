@@ -34,4 +34,6 @@ function makeItBIG($a_lot_of_names) {
 }
 
 $a_lot_of_names = ['Homer', 'Marge', 'Bart', 'Maggy', 'Lisa'];
+
+// Christians Feature Änderung
 var_dump(makeItBIG($a_lot_of_names));
