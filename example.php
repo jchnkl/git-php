@@ -5,11 +5,13 @@
   *
   * @since 2021-11-30
 */
-function say_achrafs_change() {
-  return "Hello";
+function say_hello() {
+  return "hello";
 }
 
-echo say_achrafs_change();
+// New feature a
+
+echo say_hello:
 
 // Simple Function + Parameter + Call
 
