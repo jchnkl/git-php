@@ -13,6 +13,10 @@ function say_hello() {
 
 echo say_hello();
 
+// New feature b
+
+echo say_hello();
+
 // Simple Function + Parameter + Call
 
 /**
