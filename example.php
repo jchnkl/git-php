@@ -5,13 +5,11 @@
   *
   * @since 2021-11-30
 */
-function say_hello() {
- return "hello";
-}
+
 
 // New feature a
 
-echo say_hello();
+echo say_hello('git freunde');
 
 // New feature b
 
