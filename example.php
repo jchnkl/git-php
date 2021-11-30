@@ -51,5 +51,5 @@ var_dump(makeItBIG($a_lot_of_names));
 // Ein Bug von Jochen
 
 function ich_kann_kein_php() {
-    return 'nop';
+    return 'hallo';
 }
